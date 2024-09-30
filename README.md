@@ -10,7 +10,7 @@ This repository contains a robust trading strategy specifically designed for the
 - **Time Period**: 2020-2023
 - **Timeframe**: 1-hour data
 - **Total Returns**: ~600%
-- **Max Drawdown**: ~6%
+- **Max Drawdown**: ~8.5%
 - **Leverage Potential**: Profits can be significantly enhanced by applying leverage based on risk tolerance.
 
 ## Key Features
